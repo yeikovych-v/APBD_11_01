@@ -148,3 +148,4 @@ C:\Users\Volodymyr\RiderProjects\APBD_11_01\APBD_11_01\obj\Debug\net8.0\APBD_11_
 C:\Users\Volodymyr\RiderProjects\APBD_11_01\APBD_11_01\obj\Debug\net8.0\APBD_11_01.genruntimeconfig.cache
 C:\Users\Volodymyr\RiderProjects\APBD_11_01\APBD_11_01\obj\Debug\net8.0\ref\APBD_11_01.dll
 C:\Users\Volodymyr\RiderProjects\APBD_11_01\APBD_11_01\obj\Debug\net8.0\APBD_11_01.csproj.CopyComplete
+C:\Users\Volodymyr\RiderProjects\APBD_11_01\APBD_11_01\obj\Debug\net8.0\APBD_11_01.sourcelink.json
